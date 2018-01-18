@@ -1,4 +1,4 @@
 short addition
 One more addition
-add-fav-color = red
+add-fav-color = blue
 add-copyright - swapip inc
